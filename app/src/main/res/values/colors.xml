@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark">#110D27</color>
+    <color name="indigo_main">#28233E</color>
+    <color name="pink_main">#C2A69C</color>
+    <color name="pink_secondary">#D0ADA0</color>
+    <color name="cacky">#C0884F</color>
+    <color name="grey">#D9D9D9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error">#8C0E0F</color>
+</resources>

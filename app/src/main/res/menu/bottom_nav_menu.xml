@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_budget"
+        android:title="@string/budget"
+        android:icon="@drawable/ic_budget"/>
+
+    <item
+        android:id="@+id/bottom_nav_todo_list"
+        android:title="@string/to_do_list"
+        android:icon="@drawable/ic_double_tick"/>
+
+    <item
+        android:id="@+id/bottom_nav_notes"
+        android:title="@string/notes"
+        android:icon="@drawable/ic_notebook"/>
+
+</menu>
